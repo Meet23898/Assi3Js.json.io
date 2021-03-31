@@ -1,0 +1,34 @@
+
+[
+        {
+            "productTitle" : "1,500 live ladybugs",
+            "productDescription" : "Who says you can't buy anything for under $10 anymore? In fact, Amazon shoppers can buy 1,500 crawling, flying somethings for the bargain price of a latte.",
+            "productImage": "https://i1.wp.com/bestlifeonline.com/wp-content/uploads/2018/08/live-ladybugs.jpg",
+            "productPrice" : "3.05"
+        },
+        {   
+            "productTitle": "Uranium ore",
+            "productDescription": "While this small amount of uranium ore is pretty low on the radioactivity meter, it's pretty weird that you can buy it from the same site where you get your gym socks. And for more possessions to ditch, discover these 30 Home Decorations No One Over 30 Should Own.",
+            "productImage": "https://i2.wp.com/bestlifeonline.com/wp-content/uploads/2018/08/uranium-ore.jpg",
+            "productPrice": "39.95"
+        },
+        {
+            "productTitle": "A cat butt tissue holder",
+            "productDescription": "This seems like the nicest thing to be plucked from a cat's rear since, well, ever. And who doesn't like to be stared down with peering, inquisitive eyes each time they need to blow their nose?",
+            "productImage": "https://i0.wp.com/bestlifeonline.com/wp-content/uploads/2018/08/71QugMJmYJL._SL1500_.jpg",
+            "productPrice": "34.94"
+        },
+        {
+            "productTitle": "A Godzilla garden gnome",
+            "productDescription": "Let those pesky, roving neighborhood gnomes know where they're not welcome. (A series of big-budget, narratively lackluster sequels not included.)",
+            "productImage": "https://i0.wp.com/bestlifeonline.com/wp-content/uploads/2018/08/71jgQILKykL._SL1500_.jpg",
+            "productPrice": "24.99"
+        },
+        {
+            "productTitle": "A Nicolas Cage sequin pillowcase",
+            "productDescription": "The only thing better than a festive red sparkly pillowcase is one that morphs into Nicolas Cage's face with the satisfying swipe of your hand.",
+            "productImage": "https://i2.wp.com/bestlifeonline.com/wp-content/uploads/2018/08/nicolas-cage-pillow.jpg",
+            "productPrice": "24.95"
+        }
+]
+
